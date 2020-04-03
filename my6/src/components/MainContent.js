@@ -5,13 +5,13 @@ function MainContent () {
     return (
         <div>
             <ul>
-                <li>This is my list of content</li>
+                <li className="myList">This is my list of content</li>
                 <li>Nothing here...</li>
-                <li>I'm just learning</li>
+                <li className="myList">I'm just learning</li>
             </ul>
-            <input defaultValue="Something!" />
+            <input defaultValue="Something!" className="myList" />
             <input type="checkbox"></input>
-            <input type="checkbox" />
+            <input type="checkbox" className="myList"/>
             <p>CheckBoxes</p>
         </div>
     )

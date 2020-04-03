@@ -1,9 +1,22 @@
 
 body {
-    margin: 0;
+    margin: 20px;
+    background-color: teal;
 }
 
 .nav1 {
-    background-color: darkgray;
+    height: 100px;
+    background-color: #333;
     font-size: xx-large;
+    align-items: center;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.myList {
+    background-color: grey;
 }

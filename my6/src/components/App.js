@@ -4,6 +4,8 @@ import Footer from './Footer'
 import Head from './Head'
 import MainContent from './MainContent'
 
+import Head2 from './Head2'
+
 
 function App () {
 
@@ -14,6 +16,7 @@ function App () {
             
             <Footer />
             <MainContent />
+            <Head2>Something</Head2>
         </div>
     )
 
