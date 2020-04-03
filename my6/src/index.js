@@ -1,8 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import App from './components/App'
+//import App from './lesson1/App'
+import App2 from './lesson2/App2'
 
-var header = <h1>To jest mój nagłówek!</h1>
-
-ReactDOM.render(<App />, document.getElementById("root"))
+ReactDOM.render(<App2 />, document.getElementById("root"))

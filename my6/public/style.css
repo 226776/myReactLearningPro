@@ -2,6 +2,7 @@
 body {
     margin: 20px;
     background-color: teal;
+    background-image: url("./Souls3.jpg");
 }
 
 .nav1 {
@@ -18,5 +19,16 @@ body {
 }
 
 .myList {
-    background-color: grey;
+    background-image: url("./Souls3.jpg");
+}
+
+.lesson2 {
+    
+    background-color: rgb(17, 176, 224);
+    font-size: 30px;
+    align-content: stretch;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 12px;
 }
