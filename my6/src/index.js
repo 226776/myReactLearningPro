@@ -2,6 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 //import App from './lesson1/App'
-import App2 from './lesson2/App2'
+import App3 from './lesson2/App3'
 
-ReactDOM.render(<App2 />, document.getElementById("root"))
+ReactDOM.render(<App3 />, document.getElementById("root"))
